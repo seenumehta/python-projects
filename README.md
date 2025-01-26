@@ -33,4 +33,4 @@ The example provided in the script generates a QR code for the URL: `https://git
 
 ---
 
-Feel free to modify the content to better suit your needs.
+Feel free to modify the content to better suit your needs
