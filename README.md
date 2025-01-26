@@ -1,8 +1,3 @@
-# qr code generator
-Based on the provided code, here is a suggested README context for your scanner file:
-
----
-
 # QR Code Generator
 
 This script generates a QR code for a specified URL.
